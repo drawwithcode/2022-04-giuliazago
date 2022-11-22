@@ -6,3 +6,15 @@ html, body {
 canvas {
   display: block;
 }
+
+/*html, body {
+  overflow-x: hidden;
+} 
+
+body { 
+  position: relative;}*/
+
+  html
+{
+position:fixed;
+}
